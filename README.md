@@ -13,7 +13,7 @@
 -
 -
 
-**Technical Application Chemist @ IMCD US (_September 2019 - _July 2022_)**
+**Technical Application Chemist @ IMCD US (_September 2019 - July 2022_)**
 -
 -
 
