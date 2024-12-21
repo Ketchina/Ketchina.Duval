@@ -1,5 +1,5 @@
 # Ketchina Duval
-# logo: FA897A5B-62A3-47ED-B7E0-188392654877.jpeg
+
 # Data Science Graduate Student
 
 ### Techinal Skills: R, SAS, Python, SQL, JMP
