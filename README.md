@@ -1,5 +1,5 @@
 # Ketchina Duval
-![alt_text_here](Picture/FA897A5B-62A3-47ED-B7E0-188392654877.jpeg)
+![alt_text_here](Picture/8AC1FFEC-97F3-4328-9C34-CFE1C98E366D_1_201_a.jpeg)
 # Data Science Graduate Student
 
 ### Techinal Skills: R, SAS, Python, SQL, JMP
