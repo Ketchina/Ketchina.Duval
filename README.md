@@ -24,9 +24,9 @@
 
 This analysis aimed to examine key relationships within the dataset. A linear regression analysis was performed to assess the impact of app usage on battery drain, revealing that increased app usage significantly accelerates battery depletion. A t-test comparing data usage between Android and iOS operating systems showed no substantial difference in usage patterns. Additionally, a chi-square test demonstrated a significant association between gender and user behavior, with males exhibiting a slightly higher engagement compared to females. All tests were performed with an alpha of 0.05.
 
+- **[Data visualization of the Office (https://github.com/Ketchina/portfolio/blob/main/Project/The%20office%20visualization.pdf)**
 
-
-
+I used R studio to perform some analysis and visualization of the office seasons and character lines.
 
   
 
