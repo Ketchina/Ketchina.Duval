@@ -11,7 +11,7 @@ Passionate about leveraging data to drive insights and innovation.
 
 ## Education
 - M.S. Data Science and Analytics | Kennesaw State University (_Expected May 2026_)
-- B.S. Biochemistry | Montclair State University at New Jersey (_May 2018_)
+- B.S. Biochemistry | Montclair State University  (_May 2018_)
 
 ### Work experience
 **Product Development Chemist @ Newell Brands (_August 2022- Present_)**
