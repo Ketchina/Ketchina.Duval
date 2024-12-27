@@ -1,32 +1,43 @@
 # Ketchina Duval
 <img src="Picture/8AC1FFEC-97F3-4328-9C34-CFE1C98E366D_1_201_a.jpeg" alt="Headshot" width="150" height="150">
 
-# Data Science Graduate Student
-
-### Techinal Skills: R, SAS, Python, SQL, JMP
+## Aspiring Data Scientist
+Passionate about leveraging data to drive insights and innovation.
+### Techninal Skills: 
+- **Programming:** Python, R, SQL(PostgreSQL), SAS  
+- **Tools:** JMP, Microsoft Office 365 
+- **Statistical Analysis:** Linear Regression, Hypothesis Testing, ANOVA  
+- **Data Visualization:** R, SAS
 
 ## Education
-- M.S. Data Science and Analytics | Kennesaw State University (_May 2026_)
+- M.S. Data Science and Analytics | Kennesaw State University (_Expected May 2026_)
 - B.S. Biochemistry | Montclair State University at New Jersey (_May 2018_)
 
 ### Work experience
 **Product Development Chemist @ Newell Brands (_August 2022- Present_)**
--
--
+-	Analyzed product testing data to improve technical designs using statistical methods, ensuring products met specifications and comply with safety requirements.
+- Reduced product testing time by 30% through optimized test plan development.
+-	Created reports and visualizations using JMP to communicate technical results to stakeholders.
+
 
 **Technical Application Chemist @ IMCD US (_September 2019 - July 2022_)**
--
--
+- Utilized Mintel to gather market data analysis and technical reports that helped influence new product development to breach any gap that exists in the market.
+-	Increased customer satisfaction by 25%, ensuring formulation accuracy and timely delivery.
+
 
 ### Project
 
 - **[Analysis of Cellphone User Behavior](https://github.com/Ketchina/portfolio/blob/main/Project/User%20behavior%20analysis%20.pdf)**  
 
-This analysis aimed to examine key relationships within the dataset. A linear regression analysis was performed to assess the impact of app usage on battery drain, revealing that increased app usage significantly accelerates battery depletion. A t-test comparing data usage between Android and iOS operating systems showed no substantial difference in usage patterns. Additionally, a chi-square test demonstrated a significant association between gender and user behavior, with males exhibiting a slightly higher engagement compared to females. All tests were performed with an alpha of 0.05.
+Dataset: Anonymous smartphone usage data (700 observations). Performed statistical analyses (linear regression, t-test, chi-square) and visualized results with SAS Studio.
 
-- **[Data visualization of the Office] (./Project/User%20behavior%20analysis.pdf)**
-- 
-I used R studio to perform some analysis and visualization of the office seasons and character lines.
+- **[Data visualization of the Office](https://github.com/Ketchina/portfolio/blob/main/Project/The%20office%20visualization.pdf)**  
+
+Analyzed and visualized character dialogue trends in "The Office" using R Studio. Explored sentiment analysis and trends across seasons.
+
+### Contact
+- Linkedin (https://www.linkedin.com/in/ketchina-duval/) | Email: (kduval723@gmail.com)
+
 
   
 
