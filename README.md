@@ -20,11 +20,10 @@
 
 ### Project##
 
-- **[Analysis of Cellphone User Behavior](link_to_report)**  
+- **[Analysis of Cellphone User Behavior](https://github.com/Ketchina/portfolio/blob/main/Project/User%20behavior%20analysis%20.pdf)**  
 
 This analysis aimed to examine key relationships within the dataset. A linear regression analysis was performed to assess the impact of app usage on battery drain, revealing that increased app usage significantly accelerates battery depletion. A t-test comparing data usage between Android and iOS operating systems showed no substantial difference in usage patterns. Additionally, a chi-square test demonstrated a significant association between gender and user behavior, with males exhibiting a slightly higher engagement compared to females. All tests were performed with an alpha of 0.05.
 
-<iframe src="https://drive.google.com/file/d/FILE_ID/preview" width="100%" height="600px"></iframe>
 
 
 
