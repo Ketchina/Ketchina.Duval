@@ -1,7 +1,7 @@
 # Ketchina Duval
 <img src="Picture/8AC1FFEC-97F3-4328-9C34-CFE1C98E366D_1_201_a.jpeg" alt="Headshot" width="150" height="150">
 
-## Aspiring Data Scientist
+
 Passionate about leveraging data to drive insights and innovation.
 ### Techninal Skills: 
 - **Programming:** Python, R, SQL(PostgreSQL), SAS  
@@ -10,9 +10,12 @@ Passionate about leveraging data to drive insights and innovation.
 - **Data Visualization:** R, SAS
 
 ## Education
-- M.S. Data Science and Analytics | Kennesaw State University (_Expected May 2026_)
-- B.S. Biochemistry | Montclair State University  (_May 2018_)
 
+**Master of Science in Data Science and Analytics**  
+*Kennesaw State University* | **Expected May 2026**  
+
+**Bachelor of Science in Biochemistry**  
+*Montclair State University* | **May 2020**  
 ### Work experience
 **Product Development Chemist @ Newell Brands (_August 2022- Present_)**
 -	Analyzed product testing data to improve technical designs using statistical methods, ensuring products met specifications and comply with safety requirements.
@@ -35,8 +38,12 @@ Dataset: Anonymous smartphone usage data (700 observations). Performed statistic
 
 Analyzed and visualized character dialogue trends in "The Office" using R Studio. Explored sentiment analysis and trends across seasons.
 
-### Contact
-- Linkedin (https://www.linkedin.com/in/ketchina-duval/) | Email: (kduval723@gmail.com)
+
+- ## 📬 **Contact Me**
+
+- 📧 **Email:** [duvalk27@gmail.com](mailto:duvalk27@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/ketchina-duval](https://www.linkedin.com/in/ketchina-duval)  
+
 
 
   
