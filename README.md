@@ -42,7 +42,7 @@ Dataset: Anonymous smartphone usage data (700 observations). Performed statistic
 Analyzed and visualized character dialogue trends in "The Office" using R Studio. Explored sentiment analysis and trends across seasons.
 
 
-## 📬 **Contact Me**
+## 📬**Contact Me**
 
 - 📧 **Email:** [kduval723@gmail.com](mailto:duvalk27@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/ketchina-duval](https://www.linkedin.com/in/ketchina-duval)  
