@@ -1,9 +1,10 @@
 # Ketchina Duval
 <img src="Picture/8AC1FFEC-97F3-4328-9C34-CFE1C98E366D_1_201_a.jpeg" alt="Headshot" width="150" height="150">
 
-
 Passionate about leveraging data to drive insights and innovation.
-### Techninal Skills: 
+
+## Techninal Skills
+
 - **Programming:** Python, R, SQL(PostgreSQL), SAS  
 - **Tools:** JMP, Microsoft Office 365 
 - **Statistical Analysis:** Linear Regression, Hypothesis Testing, ANOVA  
@@ -16,7 +17,9 @@ Passionate about leveraging data to drive insights and innovation.
 
 **Bachelor of Science in Biochemistry**  
 *Montclair State University* | **May 2020**  
-### Work experience
+
+## Work experience
+
 **Product Development Chemist @ Newell Brands (_August 2022- Present_)**
 -	Analyzed product testing data to improve technical designs using statistical methods, ensuring products met specifications and comply with safety requirements.
 - Reduced product testing time by 30% through optimized test plan development.
@@ -28,7 +31,7 @@ Passionate about leveraging data to drive insights and innovation.
 -	Increased customer satisfaction by 25%, ensuring formulation accuracy and timely delivery.
 
 
-### Project
+## Project
 
 - **[Analysis of Cellphone User Behavior](https://github.com/Ketchina/portfolio/blob/main/Project/User%20behavior%20analysis%20.pdf)**  
 
@@ -39,9 +42,9 @@ Dataset: Anonymous smartphone usage data (700 observations). Performed statistic
 Analyzed and visualized character dialogue trends in "The Office" using R Studio. Explored sentiment analysis and trends across seasons.
 
 
-- ## 📬 **Contact Me**
+## 📬 **Contact Me**
 
-- 📧 **Email:** [duvalk27@gmail.com](mailto:duvalk27@gmail.com)  
+- 📧 **Email:** [kduval723@gmail.com](mailto:duvalk27@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/ketchina-duval](https://www.linkedin.com/in/ketchina-duval)  
 
 
