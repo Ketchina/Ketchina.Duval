@@ -7,8 +7,8 @@ Passionate about leveraging data to drive insights and innovation.
 
 - **Programming:** Python, R, SQL(PostgreSQL), SAS  
 - **Tools:** JMP, Microsoft Office 365 
-- **Statistical Analysis:** Linear Regression, Hypothesis Testing, ANOVA  
-- **Data Visualization:** R, SAS
+- **Statistical Analysis:** Linear Regression, A/B Testing, Data Mining
+- **Data Visualization:** R, Power BI, Python
 
 ## Education
 
@@ -22,8 +22,8 @@ Passionate about leveraging data to drive insights and innovation.
 
 **Product Development Chemist @ Newell Brands (_August 2022- Present_)**
 -	Analyzed product testing data to improve technical designs using statistical methods, ensuring products met specifications and comply with safety requirements.
-- Reduced product testing time by 30% through optimized test plan development.
--	Created reports and visualizations using JMP to communicate technical results to stakeholders.
+- Reduce product experimentation time by 30% by utilizing data analysis to predict how certain factors affect performance metrics.
+-	Created reports and visualizations using JMP & Excle to effectively communicate technical results to stakeholders.
 
 
 **Technical Application Chemist @ IMCD US (_September 2019 - July 2022_)**
