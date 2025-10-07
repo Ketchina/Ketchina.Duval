@@ -33,7 +33,8 @@ Passionate about leveraging data to drive insights and innovation.
 
 ## Project
 
-- **[Optimizing Energy Consumption with Machine Learning (https://github.com/Ketchina/Ketchina.Duval/blob/main/Optimizing%20Energy%20Usage%20with%20Machine%20Learning.pdf)** 
+- **[📄 Optimizing Energy Consumption with Machine Learning](https://github.com/Ketchina/Ketchina.Duval/blob/main/Optimizing%20Energy%20Usage%20with%20Machine%20Learning.pdf)**
+ 
 
 - **[Analysis of Cellphone User Behavior](https://github.com/Ketchina/portfolio/blob/main/Project/User%20behavior%20analysis%20.pdf)**  
 
