@@ -34,8 +34,10 @@ Passionate about leveraging data to drive insights and innovation.
 ## Project
 
 - **[📄 Optimizing Energy Consumption with Machine Learning](https://github.com/Ketchina/Ketchina.Duval/blob/main/Optimizing%20Energy%20Usage%20with%20Machine%20Learning.pdf)**
- 
 
+Built a multivariable regression model using Python to quantify the impact of weather patterns & electricity pricing on U.S energy Consumption across 23 years of national data, achieving an R2 of 0.71
+
+ 
 - **[Analysis of Cellphone User Behavior](https://github.com/Ketchina/portfolio/blob/main/Project/User%20behavior%20analysis%20.pdf)**  
 
 Dataset: Anonymous smartphone usage data (700 observations). Performed statistical analyses (linear regression, t-test, chi-square) and visualized results with SAS Studio.
