@@ -1,7 +1,7 @@
 # Ketchina Duval
 <img src="Picture/8AC1FFEC-97F3-4328-9C34-CFE1C98E366D_1_201_a.jpeg" alt="Headshot" width="150" height="150">
 
-Passionate about leveraging data to drive insights and innovation.
+Chemist turned Data Scientist, leveraging data to drive insights and innovation.
 
 ## Techninal Skills
 
